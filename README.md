@@ -1,5 +1,6 @@
 ### Hi yoo buddies! ⚡
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z1iyxpyysoqbup2cch0mbu5el&cover_image=true&theme=natemoo-re&bar_color=ff5233&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **rahmatrians/rahmatrians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z1iyxpyysoqbup2cch0mbu5el&cover_image=true&theme=natemoo-re&bar_color=ff5233&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 -->
