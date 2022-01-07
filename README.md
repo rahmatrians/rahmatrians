@@ -1,6 +1,9 @@
 ### Hi yoo buddies! ⚡
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z1iyxpyysoqbup2cch0mbu5el&cover_image=true&theme=natemoo-re&bar_color=ff5233&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **rahmatrians/rahmatrians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
