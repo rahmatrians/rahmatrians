@@ -2,7 +2,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z1iyxpyysoqbup2cch0mbu5el&cover_image=true&theme=natemoo-re&bar_color=ff5233&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-[![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmatrians&theme=github-dark)](https://github.com/rahmatrians/github-readme-stats)
+[![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmatrians&theme=github_dark)](https://github.com/rahmatrians/github-readme-stats)
 
 <!--
 **rahmatrians/rahmatrians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
