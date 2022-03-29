@@ -1,4 +1,5 @@
 ### Hi yoo buddies! ⚡
+Welcome to ma Homepage✨. 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z1iyxpyysoqbup2cch0mbu5el&cover_image=true&theme=natemoo-re&bar_color=ff5233&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
