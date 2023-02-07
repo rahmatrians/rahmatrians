@@ -1,7 +1,7 @@
 ### Hi yoo buddies! ⚡
 Welcome and Nice to know u visit ma Playground✨.  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z1iyxpyysoqbup2cch0mbu5el&cover_image=true&theme=natemoo-re&bar_color=ff5233&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z1iyxpyysoqbup2cch0mbu5el&cover_image=true&theme=natemoo-re&bar_color=ff5233&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
 
 [![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmatrians&theme=github_dark)](https://github.com/rahmatrians/github-readme-stats)
 
