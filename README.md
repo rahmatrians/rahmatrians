@@ -1,5 +1,12 @@
-a BTPN Sharia **Back-End** Intern
+<div style="background:#f2801f;display:inline-block;padding:6px 6px;border-radius:8px;">
+<div style="display: flex;" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_of_Bank_BTPN.svg" width="25" style="margin-right:6px;background:white;padding:0 6px;border-radius:4px;">
 
+<a href="https://www.btpnsyariah.com" style="text-decoration:none;color:white;line-height:200%" >a BTPN Sharia <b>Back-End</b> Intern</a>
+    </div>
+    </div>
+    
+    
 ### Hi yoo buddies! ⚡
 Welcome and Nice to know u visit ma Playground✨.  
 
