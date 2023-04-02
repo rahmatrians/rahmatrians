@@ -6,7 +6,7 @@
     </div>
     </div>
     
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi yoo buddies! ⚡</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi yoo buddies! ⚡</h1>
 Welcome and Nice to know u visit ma Playground✨.  
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z1iyxpyysoqbup2cch0mbu5el&cover_image=true&theme=natemoo-re&bar_color=ff5233&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
