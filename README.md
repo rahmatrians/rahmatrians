@@ -2,7 +2,7 @@
 <div style="display: flex;" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_of_Bank_BTPN.svg" width="25" style="margin-right:6px;background:white;padding:0 6px;border-radius:4px;">
 
-<a href="https://www.btpnsyariah.com" style="text-decoration:none;color:white;line-height:200%" >a Ex <b>Back-End</b> Intern at BTPN Sharia</a>
+<a href="https://www.btpnsyariah.com" style="text-decoration:none;color:white;line-height:200%" >an Ex <b>Back-End</b> Intern at BTPN Sharia</a>
     </div>
     </div>
     
