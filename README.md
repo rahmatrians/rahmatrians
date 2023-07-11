@@ -23,13 +23,16 @@ Welcome and Nice to know u visit ma Playground✨.
 
 Here are some ideas to get you started:
 -->
-<div style="display: flex;" >
+<div style="display: flex;margin-top: 6px;" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_of_Bank_BTPN.svg" width="25" style="margin-right:6px;background:white;padding:0 6px;border-radius:4px;">
 
 <a href="https://www.btpnsyariah.com" style="text-decoration:none;color:white;line-height:200%" >an Ex <b>Back-End</b> Intern at BTPN Sharia</a>
-    </div>
-    </div>🎓 I'm Currently Final year Informatics Student at <a href="https://www.mercubuana.ac.id/id" style="text-decoration:none;color:white;line-height:200%" >Mercu Buana University</a><br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+</div
 
+🎓 I'm Currently Final year Informatics Student at <a href="https://www.mercubuana.ac.id/id" style="text-decoration:none;color:white;line-height:200%" >Mercu Buana University</a><br>
+🧑‍💻 Deeply addicted to the Technology->Programming Field.
+⚡ Front-End Web & Mobile App Enthusiast<br>
+💬 Any Quests? hit me up : <a href="https://www.btpnsyariah.com" style="text-decoration:none;color:white;line-height:200%" >rahmatriansyah@icloud.com</a><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahmatrians) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14714828) 
