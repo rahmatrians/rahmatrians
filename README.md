@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 I’m currently working on <div style="background:#f2801f;display:inline-block;padding:6px 6px;border-radius:8px;">
-<div style="display: flex;" >
+<div style="background:#f2801f;display:inline-block;padding:6px 6px;border-radius:8px;">
+<div style="display: flex;" >🔭 I’m currently working on 
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_of_Bank_BTPN.svg" width="25" style="margin-right:6px;background:white;padding:0 6px;border-radius:4px;">
 
 <a href="https://www.btpnsyariah.com" style="text-decoration:none;color:white;line-height:200%" >an Ex <b>Back-End</b> Intern at BTPN Sharia</a>
