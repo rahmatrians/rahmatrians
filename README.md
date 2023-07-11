@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.btpnsyariah.com" style="text-decoration:none;color:white;line-height:200%" >an Ex <b>Back-End</b> Intern at BTPN Sharia</a>
     </div>
-    </div><br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+    </div>🎓 I'm Currently Final year Informatics Student at <a href="https://www.mercubuana.ac.id/id" style="text-decoration:none;color:white;line-height:200%" >an Ex <b>Back-End</b> Intern at BTPN Sharia</a><br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
