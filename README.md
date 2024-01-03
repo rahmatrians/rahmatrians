@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="https://www.btpnsyariah.com" style="text-decoration:none;color:white;line-height:200%" >an Ex <b>Back-End</b> Intern at BTPN Sharia</a>
 </div
 
-🎓 Currently, I'm Final year Informatics Student at <a target="_blank" href="https://www.mercubuana.ac.id/id" style="text-decoration:none;color:white;line-height:200%" >Mercu Buana University</a><br>
+🎓 Currently, I'm Fresh Graduated at <a target="_blank" href="https://www.mercubuana.ac.id/id" style="text-decoration:none;color:white;line-height:200%" >Mercu Buana University</a><br>
 🧑‍💻  Deep addicted to the Technology->Programming Field.<br>
 ⚡ Front-End Web | Back-End | Mobile App | Automation Program Enthusiast<br>
 💬 Any Quests? hit me up : <a href="https://www.btpnsyariah.com" style="text-decoration:none;color:white;line-height:200%" >rahmatriansyah@icloud.com</a><br>
